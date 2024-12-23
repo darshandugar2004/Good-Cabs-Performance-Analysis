@@ -11,9 +11,9 @@ This project, part of the **Codebasics Resume Project Challenge (#CRPC13)**, ana
 
 ## **Contents**  
 1. **Power BI File**:  
-   - `Goodcabs_Performance.pbix`: Interactive dashboard and visualizations.  
+   - `BI.pbix`: Interactive dashboard and visualizations.  
 2. **SQL Query File**:  
-   - `Goodcabs_Analysis.sql`: SQL scripts for data extraction and analysis.  
+   - `challenge.sql`: SQL scripts for data extraction and analysis.  
 3. **Screenshots**:  
    - Dashboard and Data Model visuals.  
 4. **Raw Data**:  
