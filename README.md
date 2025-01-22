@@ -10,14 +10,14 @@ This project focus on key metrics such as trip volume, customer satisfaction, an
 ---
 
 ## **Contents**  
-1. **Power BI File**:  
+1. **Report**:  
+   - `Report.pdf`: A complete description of entire project.  
+2. **Power BI File**:  
    - `BI.pbix`: Interactive dashboard and visualizations.  
-2. **SQL Query File**:  
+3. **SQL Query File**:  
    - `challenge.sql`: SQL scripts for data extraction and analysis.  
-3. **Screenshots**:  
-   - Dashboard and Data Model visuals.  
-4. **Raw Data**:  
-   - Dataset used for analysis.  
+4. **Screenshots**:  
+   - Dashboard visuals.  
 
 ---
 
