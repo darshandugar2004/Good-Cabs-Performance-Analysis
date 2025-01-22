@@ -5,7 +5,7 @@ Here's a concise README for your GitHub repository:
 # **Goodcabs Performance Analysis 🚗**  
 
 ### **Overview**  
-This project, part of the **Codebasics Resume Project Challenge (#CRPC13)**, analyzes Goodcabs’ performance in tier-2 cities. The focus is on key metrics such as trip volume, customer satisfaction, and repeat passenger rates to derive actionable insights and recommendations.  
+This project focus on key metrics such as trip volume, customer satisfaction, and repeat passenger rates to derive actionable insights and recommendations.  
 
 ---
 
@@ -47,12 +47,3 @@ This project, part of the **Codebasics Resume Project Challenge (#CRPC13)**, ana
 - Open the Power BI file to explore the dashboard.  
 - Use the SQL script to replicate the analysis.  
 - Refer to screenshots for a quick view of the outputs.  
-
----  
-
-## **Acknowledgments**  
-Thanks to **Codebasics** for the learning opportunity!  
-
----  
-
-Feel free to update links or add specific details as needed!
