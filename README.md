@@ -1,7 +1,10 @@
 # **Goodcabs Performance Analysis 🚗**  
-<img src="images/Repeat Rate.png" width="550" height="300">
+
+### Targets & Revenue
 <img src="images/Targets & Revenue.png" width="550" height="300">
 
+### Repeat Rate
+<img src="images/Repeat Rate.png" width="550" height="300">
 
 ## **Contents**  
 1. **Report**:  
