@@ -1,13 +1,7 @@
-Here's a concise README for your GitHub repository:  
-
----
-
 # **Goodcabs Performance Analysis 🚗**  
+<img src="images/Repeat Rate.png" width="550" height="300">
+<img src="images/Target and Revenue.png" width="550" height="300">
 
-### **Overview**  
-This project focus on key metrics such as trip volume, customer satisfaction, and repeat passenger rates to derive actionable insights and recommendations.  
-
----
 
 ## **Contents**  
 1. **Report**:  
@@ -16,9 +10,6 @@ This project focus on key metrics such as trip volume, customer satisfaction, an
    - `BI.pbix`: Interactive dashboard and visualizations.  
 3. **SQL Query File**:  
    - `challenge.sql`: SQL scripts for data extraction and analysis.  
-4. **Screenshots**:  
-   - Dashboard visuals.  
-
 ---
 
 ## **Key Insights**  
